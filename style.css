@@ -1,0 +1,56 @@
+body{
+    margin: 0%;
+}
+.main-body{
+    width: 500px;
+    height: 600px;
+    background: grey;
+    margin-left: 400px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+#screen{
+    width: 80%;
+    margin-left: 42px;
+    height: 54px;
+    margin-top: 30px;
+    pointer-events: none;
+}
+.display{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.bottom{
+    width: 436px;
+    height: 450px;
+    background: black;
+    margin-top: 38px;
+    border-radius: 20px;
+    margin-left: 31px;
+}
+.btn{
+    width: 87px;
+    height: 45px;
+    margin-left: 14px;
+    margin-top: 15px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    border-radius: 15px;
+}
+.equalbtn{
+    background: green;
+    color: black;
+    width: 87px;
+    height: 45px;
+    margin-left: 14px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    border-radius: 15px;
+}
+.row{
+    margin-top: 30px;
+}
